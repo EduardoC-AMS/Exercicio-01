@@ -1,0 +1,16 @@
+C:\AMS\AMS-Jogo\GameAMS\bin\Debug\net5.0\GameAMS.exe
+C:\AMS\AMS-Jogo\GameAMS\bin\Debug\net5.0\GameAMS.deps.json
+C:\AMS\AMS-Jogo\GameAMS\bin\Debug\net5.0\GameAMS.runtimeconfig.json
+C:\AMS\AMS-Jogo\GameAMS\bin\Debug\net5.0\GameAMS.runtimeconfig.dev.json
+C:\AMS\AMS-Jogo\GameAMS\bin\Debug\net5.0\GameAMS.dll
+C:\AMS\AMS-Jogo\GameAMS\bin\Debug\net5.0\ref\GameAMS.dll
+C:\AMS\AMS-Jogo\GameAMS\bin\Debug\net5.0\GameAMS.pdb
+C:\AMS\AMS-Jogo\GameAMS\obj\Debug\net5.0\GameAMS.csprojAssemblyReference.cache
+C:\AMS\AMS-Jogo\GameAMS\obj\Debug\net5.0\GameAMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\AMS\AMS-Jogo\GameAMS\obj\Debug\net5.0\GameAMS.AssemblyInfoInputs.cache
+C:\AMS\AMS-Jogo\GameAMS\obj\Debug\net5.0\GameAMS.AssemblyInfo.cs
+C:\AMS\AMS-Jogo\GameAMS\obj\Debug\net5.0\GameAMS.csproj.CoreCompileInputs.cache
+C:\AMS\AMS-Jogo\GameAMS\obj\Debug\net5.0\GameAMS.dll
+C:\AMS\AMS-Jogo\GameAMS\obj\Debug\net5.0\ref\GameAMS.dll
+C:\AMS\AMS-Jogo\GameAMS\obj\Debug\net5.0\GameAMS.pdb
+C:\AMS\AMS-Jogo\GameAMS\obj\Debug\net5.0\GameAMS.genruntimeconfig.cache
